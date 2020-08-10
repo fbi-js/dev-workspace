@@ -1,0 +1,8 @@
+{
+  "name": "fbi-dev-workspace",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "clean": "pnpm recursive run clean && rm -rf node_modules"
+  }
+}
